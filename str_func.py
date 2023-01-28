@@ -1,5 +1,5 @@
-def get_line(line):
-    """Все буквы в верхнем регистре"""
+def get_line(line)
+"""Bce буквы заглавные"""
     return line.upper()
 def get_words(words):
     """Заглавные первые буквы"""
