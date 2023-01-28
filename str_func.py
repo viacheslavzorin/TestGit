@@ -1,3 +1,4 @@
+
 def get_line(line)
 """Bce буквы заглавные"""
     return line.upper()
